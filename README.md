@@ -44,12 +44,12 @@ node index.js --action remove --id <id>
 
 # Options
 
---action <type>: Type of action to perform (list, get, add, remove).
---id <type>: Contact ID (required for get and remove actions).
---name <type>: Contact name (required for add action).
---email <type>: Contact email (required for add action).
+--action <type>: Type of action to perform (list, get, add, remove).  
+--id <type>: Contact ID (required for get and remove actions).  
+--name <type>: Contact name (required for add action).  
+--email <type>: Contact email (required for add action).  
 --phone <type>: Contact phone (required for add action).
 
 # Author
 
-[Anna Ulanska]
+[Anna Ulanska]```
